@@ -1,0 +1,3 @@
+[submodule "nhost"]
+	path = nhost
+	url = https://github.com/nhost/nhost
